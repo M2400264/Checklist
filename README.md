@@ -1,12 +1,12 @@
 # Checklist
 OS checklist
 
-Activity B(I)
-Create UI, wireframes, canva,figma, draw.io
-Show user journeys, use a table
-Justify colours used
-W3C/WCAG guideilines (POUR)
-Front-end and back-end requirements
+## Activity B(I)
+-Create UI, wireframes, canva,figma, draw.io
+-Show user journeys, use a table
+-Justify colours used
+-W3C/WCAG guideilines (POUR)
+-Front-end and back-end requirements
 
  
 ## Activity B Checklist
@@ -24,20 +24,186 @@ Front-end and back-end requirements
  - [ ] ERD Completed
  - [ ] Use Case Diagram
  - [ ] Data Dictionary
+ - [ ] Class Diagram
  
- #Algorithm
+ ## Algorithm
  Use pseudocode/flowchart to explain functional parts
  Justify each algorithm.
  Show example of data (data table)
 
 
- #Activity A- research task
+# Activity A- research task
+## Business context
+- [ ] Client brief review,security and compliance
+- [ ] Stakeholders
+- [ ] Constraints
+- [ ] Empathy mapping
+- [ ] SWOT analysis, strength,weakness,opportunity,threats
+- [ ] User stories & Acceptance
+### Activity 1 - researh and preperation
+- [ ] Appendices
 
 
- #Task2
+
+ # Task2
  #3 programming languages, html,css, python, java, c#
 
 
 
-
+# Activity A – Research & Prep Checklist
+This is my checklist for Activity A in the T Level Digital Production, Design & Development exam.  
  
+---
+ 
+## 1. Business Context
+- [ ] Explain what the business actually does  
+- [ ] What problem they want fixing  
+- [ ] Who the users/stakeholders are  
+- [ ] Any limits (budget, time, tech issues, security stuff etc.)  
+- [ ] Why the project matters to the business  
+ 
+---
+ 
+## 2. Requirements
+- [ ] List all the **functional requirements** (what the system should do)  
+- [ ] List the **non-functional requirements** (speed, reliability, usability, security)  
+- [ ] Note any inputs/outputs  
+- [ ] Add any assumptions or things that might be a problem  
+- [ ] Link the requirements back to the business problem  
+ 
+---
+ 
+## 3. Decomposition
+Break the problem into smaller chunks.
+ 
+- [ ] Write a simple breakdown of the whole system  
+- [ ] List the main components/modules  
+- [ ] Explain how data moves around the system  
+- [ ] Add diagrams if needed:  
+  - [ ] Flowchart  
+  - [ ] System/architecture diagram  
+  - [ ] Class/entity structure  
+- [ ] Explain how each bit helps solve the problem  
+ 
+---
+ 
+## 4. KPIs & User Acceptance
+- [ ] Write down the KPIs (basically how we know it works)  
+- [ ] Add performance goals, uptime, accuracy, etc.  
+- [ ] Create User Acceptance Criteria (Given / When / Then)  
+- [ ] Make sure each requirement has something that can be tested  
+- [ ] Link UAC back to the requirements  
+ 
+---
+ 
+## 5. Proposal
+- [ ] Explain the solution you’re going to make  
+- [ ] List the features and the tech you’ll use  
+- [ ] Mention tools/frameworks (like Python, JS, databases, etc.)  
+- [ ] Add rough project stages or milestones  
+- [ ] Mention any risks + how you’d deal with them  
+- [ ] Say what the final outcome should achieve  
+ 
+---
+ 
+## 6. Justification
+- [ ] Explain why your solution is the best idea  
+- [ ] Briefly mention other options and why you didn’t pick them  
+- [ ] Justify the tech choices  
+- [ ] Justify the design/architecture  
+- [ ] Justify the tools, libraries, methods, etc.  
+- [ ] Link everything back to the business needs + KPIs  
+ 
+---
+ 
+## 7. Appendices
+- [ ] Add diagrams  
+- [ ] Add bigger bits of code  
+- [ ] Add screenshots/mockups  
+- [ ] Add any extra research  
+- [ ] Make sure everything is labelled so the examiner knows what it is  
+ 
+---
+ 
+## Final Checks
+- [ ] Everything in the right order  
+- [ ] Makes sense + reads clearly  
+- [ ] No typos  
+- [ ] Diagrams are actually readable  
+- [ ] All points in Activity A have been covered  
+ 
+---
+ 
+### End of Checklist
+## Activity B Checklist
+
+### Visual Interface Design
+- [ ] **Wireframes Created**
+- - [ ] Whitespace
+- - [ ] Hierarchy 
+- - [ ] Make look good
+
+- [ ] **Accessibility Features Included**
+
+- [ ] **Annotations**
+
+- [ ] **User Journey**
+
+- [ ] **Front end requirements**
+
+- [ ] **Back end requirements**
+
+### Data Requirements
+- [ ] **ERD Completed**
+
+- [ ] **Use Case Diagram**
+
+- [ ] **Data Dictionary**
+
+### Algorithm Designs
+- [ ] **Flow charting**
+
+### Test Stratagey
+- [ ] **Functionality Testing**  
+  Verifies that each feature works according to requirements.
+
+- [ ] **Usability Testing**  
+  How easy a design is to use with a group of users.
+
+- [ ] **Interface Testing**  
+  How different components communicate with each other smoothly and accurately.
+
+- [ ] **Database Testing**  
+  Evaluate the accuracy, reliability, and performance of a database system.
+
+- [ ] **Compatibility Testing**  
+  Ensure the application can work on different hardware and environments.
+
+- [ ] **Performance Testing**  
+  Determine a system’s speed, stability, and scalability under a specific workload.
+
+- [ ] **Security Testing**  
+  Evaluate a system to find vulnerabilities and weaknesses that could be exploited.
+
+- [ ] **Crowd Testing**  
+  Quality assurance performed by a group of external testers.
+
+- [ ] **Accessibility Testing**  
+  Check if a website is usable by everyone, including people with disabilities.
+
+- [ ] **Acceptance Testing**  
+  Verify that the product meets the requirements and user needs.
+
+- [ ] **Alpha Testing**  
+  Internal testers identify any issues or improvements needed.
+
+- [ ] **Beta Testing**  
+  External users give feedback on usability and performance.
+
+- [ ] **Black Box Testing**  
+  Test functionality without looking into internal structures or inner workings.
+
+- [ ] **White Box Testing / Structural Testing**  
+  Test the inner workings and logic by analysing the source code.
+
+### Communication
