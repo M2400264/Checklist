@@ -161,6 +161,7 @@ Break the problem into smaller chunks.
 
 ### Algorithm Designs
 - [ ] **Flow charting**
+- [ ] **Navigation Maps**
 
 ### Test Stratagey
 - [ ] **Functionality Testing**  
