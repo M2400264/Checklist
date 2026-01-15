@@ -1,57 +1,16 @@
 # Checklist
 OS checklist
 
-## Activity B(I)
--Create UI, wireframes, canva,figma, draw.io
--Show user journeys, use a table
--Justify colours used
--W3C/WCAG guideilines (POUR)
--Front-end and back-end requirements
-
- 
-## Activity B Checklist
-### Visual Interface Design
- - [ ] Wireframes Created
- - - [ ] Whitespace
- - - [ ] Hierarchy 
- - - [ ] Make look good
- - [ ] Accessibility Features Included
- - [ ] Annotations
- - [ ] User Journey
- - [ ] Front end requirements
- - [ ] Back end requirements
-### Data Requirements
- - [ ] ERD Completed
- - [ ] Use Case Diagram
- - [ ] Data Dictionary
- - [ ] Class Diagram
- 
- ## Algorithm
- Use pseudocode/flowchart to explain functional parts
- Justify each algorithm.
- Show example of data (data table)
-
-
-# Activity A- research task
-## Business context
-- [ ] Client brief review,security and compliance
-- [ ] Stakeholders
-- [ ] Constraints
-- [ ] Empathy mapping
-- [ ] SWOT analysis, strength,weakness,opportunity,threats
-- [ ] User stories & Acceptance
-### Activity 1 - researh and preperation
-- [ ] Appendices
-
-
-
-
-
-
-
 # Activity A – Research & Prep Checklist
 This is my checklist for Activity A in the T Level Digital Production, Design & Development exam.  
- 
+ ### Activity 1 - researh and preperation
+- [ ] Appendices
+- [ ] How digital solutions are used to meet the needs of different users within the given scenario sector, including:
+- [ ] How Hardware and software are used in the scenario of industry
+- [ ]  newly emerging technologies
+- [ ]  how digital solutions could be used to meet different user needs
+- [ ]  the industry-specific guidelines and regulations you will need to follow.
+
 ---
  
 ## 1. Business Context
@@ -131,6 +90,22 @@ Break the problem into smaller chunks.
 - [ ] Diagrams are actually readable  
 - [ ] All points in Activity A have been covered  
  
+ 
+ ## Algorithm
+ Use pseudocode/flowchart to explain functional parts
+ Justify each algorithm.
+ Show example of data (data table)
+
+
+
+
+
+
+
+
+
+
+
 ---
  
 ### End of Checklist
@@ -158,6 +133,7 @@ Break the problem into smaller chunks.
 - [ ] **Use Case Diagram**
 
 - [ ] **Data Dictionary**
+- [ ] **Data Flow Diagram**
 
 ### Algorithm Designs
 - [ ] **Flow charting**
@@ -205,7 +181,30 @@ Break the problem into smaller chunks.
 
 - [ ] **White Box Testing / Structural Testing**  
   Test the inner workings and logic by analysing the source code.
+## Activity B(I)
+-Create UI, wireframes, canva,figma, draw.io
+-Show user journeys, use a table
+-Justify colours used
+-W3C/WCAG guideilines (POUR)
+-Front-end and back-end requirements
 
+ 
+## Activity B Checklist
+### Visual Interface Design
+ - [ ] Wireframes Created
+ - - [ ] Whitespace
+ - - [ ] Hierarchy 
+ - - [ ] Make look good
+ - [ ] Accessibility Features Included
+ - [ ] Annotations
+ - [ ] User Journey
+ - [ ] Front end requirements
+ - [ ] Back end requirements
+### Data Requirements
+ - [ ] ERD Completed
+ - [ ] Use Case Diagram
+ - [ ] Data Dictionary
+ - [ ] Class Diagram
 ### Communication
  # Task2
  #3 programming languages, html,css, python, java, c#
