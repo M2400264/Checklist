@@ -110,14 +110,26 @@ Break the problem into smaller chunks.
  
 ### End of Checklist
 ## Activity B Checklist
-
+-Create UI, wireframes, canva,figma, draw.io
+-Show user journeys, use a table
+-Justify colours used
+-W3C/WCAG guideilines (POUR)
+-Front-end and back-end requirements
 ### Visual Interface Design
 - [ ] **Wireframes Created**
 - - [ ] Whitespace
 - - [ ] Hierarchy 
 - - [ ] Make look good
-
+### Data Requirements
+ - [ ] ERD Completed
+ - [ ] Use Case Diagram
+ - [ ] Data Dictionary
+ - [ ] Class Diagram
 - [ ] **Accessibility Features Included**
+ - [ ] Annotations
+ - [ ] User Journey
+ - [ ] Front end requirements
+ - [ ] Back end requirements
 
 - [ ] **Annotations**
 
@@ -182,29 +194,13 @@ Break the problem into smaller chunks.
 - [ ] **White Box Testing / Structural Testing**  
   Test the inner workings and logic by analysing the source code.
 ## Activity B(I)
--Create UI, wireframes, canva,figma, draw.io
--Show user journeys, use a table
--Justify colours used
--W3C/WCAG guideilines (POUR)
--Front-end and back-end requirements
+
 
  
-## Activity B Checklist
-### Visual Interface Design
- - [ ] Wireframes Created
- - - [ ] Whitespace
- - - [ ] Hierarchy 
- - - [ ] Make look good
- - [ ] Accessibility Features Included
- - [ ] Annotations
- - [ ] User Journey
- - [ ] Front end requirements
- - [ ] Back end requirements
-### Data Requirements
- - [ ] ERD Completed
- - [ ] Use Case Diagram
- - [ ] Data Dictionary
- - [ ] Class Diagram
+
+
+
+
 ### Communication
  # Task2
- #3 programming languages, html,css, python, java, c#
+ #3 programming languages, html,css, python, java, 
