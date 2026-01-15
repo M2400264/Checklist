@@ -128,6 +128,7 @@ Break the problem into smaller chunks.
  - [ ] Use Case Diagram
  - [ ] Data Dictionary
  - [ ] Class Diagram
+ - [ ] - [ ] **Data Flow Diagram**
 - [ ] **Accessibility Features Included**
  - [ ] Annotations
  - [ ] User Journey
@@ -142,13 +143,8 @@ Break the problem into smaller chunks.
 
 - [ ] **Back end requirements**
 
-### Data Requirements
-- [ ] **ERD Completed**
 
-- [ ] **Use Case Diagram**
 
-- [ ] **Data Dictionary**
-- [ ] **Data Flow Diagram**
 
 ### Algorithm Designs
 - [ ] **Flow charting**
