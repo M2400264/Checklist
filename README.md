@@ -16,7 +16,10 @@ This is my checklist for Activity A in the T Level Digital Production, Design & 
 ## 1. Business Context
 - [ ] Explain what the business actually does  
 - [ ] What problem they want fixing  
-- [ ] Who the users/stakeholders are  
+- [ ] Who the users/stakeholders are
+- [ ] SWOT Analysis
+- [ ] User Stories
+- [ ] Empathy mapping
 - [ ] Any limits (budget, time, tech issues, security stuff etc.)  
 - [ ] Why the project matters to the business  
  
