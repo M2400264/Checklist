@@ -99,16 +99,6 @@ Break the problem into smaller chunks.
  Justify each algorithm.
  Show example of data (data table)
 
-
-
-
-
-
-
-
-
-
-
 ---
  
 ### End of Checklist
@@ -192,7 +182,7 @@ Break the problem into smaller chunks.
 
 - [ ] **White Box Testing / Structural Testing**  
   Test the inner workings and logic by analysing the source code.
-## Activity B(I)
+
 
 
  
@@ -202,4 +192,9 @@ Break the problem into smaller chunks.
 
 ### Communication
  # Task2
- #3 programming languages, html,css, python, java, 
+ #4 programming languages, html,css, python, java, 
+
+snippets:
+
+
+
