@@ -197,4 +197,12 @@ Break the problem into smaller chunks.
 snippets:
 
 
+### OS Task 3A Action Steps 
+- [ ] **Validation:** I have tested my survey links to ensure they are public/accessible. 
+
+- [ ] **Bias Audit:** I have checked my questions to ensure they aren't "leading" the user. 
+
+- [ ] **Synthesis:** I have written a "Results Summary" that links Technical and Non-Technical findings. 
+
+- [ ] **Traceability:** I have mapped every user "pain point" to a specific GitHub Issue or Future Improvement item. 
 
