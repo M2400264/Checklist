@@ -191,5 +191,51 @@ Break the problem into smaller chunks.
 
 - [ ] **Synthesis:** I have written a "Results Summary" that links Technical and Non-Technical findings. 
 
-- [ ] **Traceability:** I have mapped every user "pain point" to a specific GitHub Issue or Future Improvement item. 
+- [ ] **Traceability:** I have mapped every user "pain point" to a specific GitHub Issue or Future Improvement item.
+- [ ] Explain why feedback is being collected, link to improving prototype
+- [ ] Clear explanation of what needs to be found out
+- [ ] Target users
+- [ ] Justification for each group
+- [ ] **Feedback Methods**:
+- [ ] Surveys,interviews, justification for each method, how each method links to the aims
+- [ ] **Practical session plan**
+- [ ] Where feedback takes place
+- [ ] what test environment will be used
+- [ ] Tasks users will complete
+- [ ] How the prototype will be shown
+- [ ] **Data Recording**
+- [ ] How survey data will be stored
+- [ ] How interview notes will be captured
+- [ ] **Data Analysis**
+- [ ] Calculate Averages
+- [ ] Identify lowest scoring
+- [ ] Group interview comments
+
+## Section 2 Task 3A
+- [ ] **Technical Survey questions**
+- [ ] 5 quantitive questions
+- [ ] 3-5 qualitatives
+- [ ] Performance,code quality, logic
+- [ ] No repeated questions
+- [ ] **Non Technical Survey**
+- [ ] at least 5 quantitive
+- [ ] 3-5 qualitive
+- [ ] Usability,navigation,clarity,accessibility, design
+
+- [ ] **Interview**
+- [ ] **Non Technical**:
+- [ ] 5 open questions
+- [ ] Probes
+- [ ] Not repetitive
+- [ ] **Technical**:
+- [ ] 5 open questions
+- [ ] efficiency,maintainability,logic etc
+- [ ] prototype specific
+- [ ] **Triangulation**
+- [ ] One low score, one theme, one quote
+- [ ] Explain why they connect
+- [ ] **Analysis**
+- [ ] Averages
+- [ ] Comparisons
+- [ ] Themes
 
