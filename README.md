@@ -3,7 +3,7 @@ OS checklist
 
 # Activity A – Research & Prep Checklist
 This is my checklist for Activity A in the T Level Digital Production, Design & Development exam.  
- ### Activity 1 - researh and preperation
+ ### Activity 1 - Research and Preparation 
 - [ ] Appendices
 - [ ] How digital solutions are used to meet the needs of different users within the given scenario sector, including:
 - [ ] How Hardware and software are used in the scenario of industry
