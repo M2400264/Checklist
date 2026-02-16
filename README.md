@@ -183,6 +183,13 @@ Break the problem into smaller chunks.
 - [ ] **White Box Testing / Structural Testing**  
   Test the inner workings and logic by analysing the source code.
 
+### Task 2
+- [ ] 2 Programming languages, python, html,sql,javascript ,css
+- [ ] Front end, back end, good ui, code organisation, legal guidelines
+- [ ] Changelog/version history
+- [ ] Asset log
+- [ ] Test log, suitable test data
+
 
 ### OS Task 3A Action Steps 
 - [ ] **Validation:** I have tested my survey links to ensure they are public/accessible. 
