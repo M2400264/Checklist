@@ -184,19 +184,6 @@ Break the problem into smaller chunks.
   Test the inner workings and logic by analysing the source code.
 
 
-
- 
-
-
-
-
-### Communication
- # Task2
- #4 programming languages, html,css, python, java, 
-
-snippets:
-
-
 ### OS Task 3A Action Steps 
 - [ ] **Validation:** I have tested my survey links to ensure they are public/accessible. 
 
@@ -206,3 +193,8 @@ snippets:
 
 - [ ] **Traceability:** I have mapped every user "pain point" to a specific GitHub Issue or Future Improvement item. 
 
+### OS Task 3B
+- [ ] Assets and content: Explained why assets are chosen, why some were rejected, why they were valid, legal issues, ethical issues
+- [ ] Requirements Evaluation: Evaluate if functional/non-functional requirements were met, KPIs, User acceptance, use task 3a data
+- [ ] Use of evidence: Referred to survey data, quotes, scores, triangulation
+- [ ] Improvements: List improvements based off feedback
