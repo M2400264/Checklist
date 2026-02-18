@@ -186,9 +186,9 @@ Break the problem into smaller chunks.
 ### Task 2
 - [ ] 2 Programming languages, python, html,sql,javascript ,css
 - [ ] Front end, back end, good ui, code organisation, legal guidelines
-- [ ] Changelog/version history
+- [ ] Changelog/version history, dates
 - [ ] Asset log
-- [ ] Test log, suitable test data
+- [ ] Test log, suitable test data, test date & Id
 
 
 ### OS Task 3A Action Steps 
