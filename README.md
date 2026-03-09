@@ -1,5 +1,4 @@
 # Checklist
-
 # Activity A – Research & Prep Checklist
 This is my checklist for Activity A in the T Level Digital Production, Design & Development exam.  
  ### Activity 1 - Research and Preparation 
